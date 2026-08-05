@@ -6,7 +6,7 @@ An interactive sales dashboard built with **Microsoft Power BI** using the Globa
 
 ## 📷 Dashboard Preview
 
-![Dashboard Overview](images/dashboard-overview.png)
+![Dashboard Overview](images/Dashboard_overview.png)
 
 ---
 
