@@ -1,0 +1,19 @@
+# Windows
+Thumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+
+# Temporary files
+*.tmp
+*.log
+
+# Power BI Auto Recovery
+*.pbix.autosave
+
+# Visual Studio Code
+.vscode/
+
+# JetBrains IDEs
+.idea/
