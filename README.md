@@ -113,13 +113,13 @@ Global-Superstore-Sales-Dashboard/
 
 ---
 
-# 👨‍💻 Author
+## 👨‍💻 Author
 
-**Your Name**
+**Bishal Bhandari**
 
-- GitHub: https://github.com/your-username
-- LinkedIn: https://linkedin.com/in/your-linkedin
+Aspiring Data Analyst | Power BI | SQL | Excel
 
----
+- GitHub: [BishalBh900](https://github.com/BishalBh900)
+- LinkedIn: [Bishal Bhandari](https://www.linkedin.com/in/bishal-bhandari-5809171ab/)
 
 ### ⭐ If you found this project helpful, consider giving it a star.
